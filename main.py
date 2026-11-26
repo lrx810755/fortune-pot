@@ -6,6 +6,7 @@ Writes a one-line fortune for a houseplant to entry.txt.
 import os
 from pathlib import Path
 
+# One line, 119 characters, within the 120 character limit.
 LINE = "Soon a sunbeam will find your leaves, and you will stretch toward it like a small green victory. Grow tall, little one."
 
 
